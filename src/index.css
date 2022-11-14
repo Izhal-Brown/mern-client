@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to up, rgba(220,53,69.0.2), rgba(255,193,7,0.2)),URL('https://i.pinimg.com/originals/cc/e8/58/cce858712faf5920a6273d49811029d3.jpg');
+  background: linear-gradient(rgba(255,193,7,0.2), rgba(220,53,69.0.2)),URL('https://i.pinimg.com/originals/cc/e8/58/cce858712faf5920a6273d49811029d3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
