@@ -1,5 +1,5 @@
 body {
-  background: URL('https://i.pinimg.com/originals/cc/e8/58/cce858712faf5920a6273d49811029d3.jpg');
+  background: URL('https://i.pinimg.com/originals/cc/e8/58/cce858712faf5920a6273d49811029d3.jpg') no-repeat cover;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
