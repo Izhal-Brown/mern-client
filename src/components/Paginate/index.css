@@ -1,0 +1,18 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+li.page-item .page-link {
+  color: red;
+}
+
+li.page-item.disabled .page-link {
+  color: red;
+}
+
+li.page-item.active .page-link {
+  color: yellow;
+  background-color: red;
+  border-color: red;
+}
