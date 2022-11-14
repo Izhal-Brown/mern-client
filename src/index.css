@@ -1,5 +1,5 @@
 body {
-  background-image: URL('https://www.kibrispdr.org/data/760/orange-gradasi-37.jpg');
+  background: linear-gradient(to right, #dc3545, #ffc107),URL('https://i.pinimg.com/originals/cc/e8/58/cce858712faf5920a6273d49811029d3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
